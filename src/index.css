@@ -1,0 +1,17 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.swiper-pagination-bullet-active {
+    @apply bg-red-200;
+  }
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #dbdbdb;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #999;
+    border-radius: 8px;
+  }
