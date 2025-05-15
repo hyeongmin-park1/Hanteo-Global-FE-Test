@@ -31,7 +31,7 @@ RapidAPI에서 발급받은 X-RapidAPI-Key 값을 .env의 VITE_RAPID_API_KEY에 
  **프로젝트 실행 방법**
 
 ```bash
-git clone https://github.com/your-username/hanteo-fe-test.git
+git clone https://github.com/hyeongmin-park1/Hanteo-Global-FE-Test.git
 cd hanteo-fe-test
 npm install
 npm run dev
