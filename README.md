@@ -25,8 +25,8 @@
 ## 📦 프로젝트 실행 방법 및 주의사항
 
 실제 차트를 사용하고자 RapidAPI의 Shazam Chart API를 사용하여 Spotify 차트 데이터를 불러옵니다.
-따라서 시연 시 https://rapidapi.com에 가입 후 해당 API 구독이 필요할 수 있습니다.(무료)
-RapidAPI에서 발급받은 X-RapidAPI-Key 값을 .env의 VITE_RAPID_API_KEY에 입력하면 됩니다.
+ 따라서 시연 시 https://rapidapi.com 에 가입 후 해당 API 구독이 필요할 수 있습니다.(무료)
+ RapidAPI에서 발급받은 X-RapidAPI-Key 값을 .env의 VITE_RAPID_API_KEY에 입력하면 됩니다.
 
  **프로젝트 실행 방법**
 
