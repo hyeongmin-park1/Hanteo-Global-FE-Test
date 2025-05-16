@@ -18,7 +18,7 @@
 
 ## 🌐 배포 URL
 
-> 🔗 [[https://hanteo-global-fe-test-58u10o87p-hyeongmins-projects.vercel.app/]]
+> 🔗 [[[https://hanteo-global-fe-test-58u10o87p-hyeongmins-projects.vercel.app/](https://v0-hanteo-global-fe-test-git-main-hyeongmins-projects.vercel.app/)]]
 
 ---
 
